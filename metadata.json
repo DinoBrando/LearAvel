@@ -1,0 +1,6 @@
+{
+  "name": "LearAvel",
+  "description": "An interactive learning playground to master Laravel core CRUD concepts, Eloquent queries, Artisan commands, and the Blade templating lifecycle with a visual simulator and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
